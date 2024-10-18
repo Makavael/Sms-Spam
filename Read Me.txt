@@ -1,0 +1,10 @@
+requests
+os
+requests
+random
+pyfiglet
+string
+hashlib
+getuseragent 
+UserAgent
+webbrowser
